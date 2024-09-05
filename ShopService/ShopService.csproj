@@ -23,8 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="MIddleware\" />
-    <Folder Include="SqlShopRepository\" />
     <Folder Include="RequestManager\" />
     <Folder Include="TokenManagement\" />
   </ItemGroup>
